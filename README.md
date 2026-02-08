@@ -1,10 +1,10 @@
 
-# 🧹 Cleaner Pro 2025
+# 🧹 Cleaner Pro 2026
 
 Мощный очиститель системы Windows. Освобождает до 50+ ГБ места!
 
 ## 📥 Скачать
-[CleanerPro2025.exe](https://github.com/Protime1/CleanerPro2025/releases/latest)
+[CleanerPro2026.exe](https://github.com/Protime1/CleanerPro2026/releases/latest)
 
 ## 🚀 Возможности
 - Очистка временных файлов Windows
@@ -14,8 +14,8 @@
 - Автоматические обновления
 
 ## ⚡ Быстрый старт
-1. Скачайте `CleanerPro2025.exe`
+1. Скачайте `CleanerPro2026.exe`
 2. Запустите программу
 3. Нажмите "НАЧАТЬ ОЧИСТКУ"
 
-© 2025 Cleaner Pro | GitHub: @Protime1
+© 2026 Cleaner Pro | GitHub: @Protime1
